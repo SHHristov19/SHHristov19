@@ -4,7 +4,7 @@ I am a 18-years-old student at VSCPI who is currently studying C# and other prog
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=shhristov19&theme=algolia&show_icons=true&locale=en"></p>
 
-- 🌱 I’m currently learning <b>C++ and SQL</b>
+- 🌱 I’m currently learning <b>C# and SQL</b>
 - 📫 How to reach me: **SHHristov19@codingburgas.bg**
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/SHHristov19?tab=repositories)
 - 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/stefan-hristov-768034230/)
