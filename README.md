@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm [Stefan Hristov!](https://github.com/SHHristov19/)
 
-I am a 16-years-old student at VSCPI who is currently studying C ++ and other programming languages. I love math and researching new technologies and using them. I have designer abilities. I like drawing with digital software like Adobe Photoshop and Krita. I am interested in 3D. I can use Solidworks, Autodesk Maya and a little of Blender. Now I steel learning Adobe Illustrator. 
+I am a 18-years-old student at VSCPI who is currently studying C# and other programming languages. I love math and researching new technologies and using them. I have designer abilities. 
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=shhristov19&theme=algolia&show_icons=true&locale=en"></p>
 
